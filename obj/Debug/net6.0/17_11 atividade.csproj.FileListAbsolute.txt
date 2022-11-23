@@ -1,0 +1,26 @@
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\appsettings.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.staticwebassets.runtime.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.exe
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.deps.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.runtimeconfig.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.dll
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\bin\Debug\net6.0\17_11 atividade.pdb
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.RazorAssemblyInfo.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.RazorAssemblyInfo.cs
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\scopedcss\bundle\17_11 atividade.styles.css
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\scopedcss\projectbundle\17_11 atividade.bundle.scp.css
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.dll
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\refint\17_11 atividade.dll
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.pdb
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\17_11 atividade.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\nickolas - prog\quinta\17_11 atividade\obj\Debug\net6.0\ref\17_11 atividade.dll
